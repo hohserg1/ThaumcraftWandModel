@@ -1,7 +1,7 @@
 # ThaumcraftWandModel
 simple thaumcraft wand model created as example quad model
 
-# How to use
+## How to use
 
 setup forge mdk 1.10.2 in ThaumcraftWandModel/ folder
 
