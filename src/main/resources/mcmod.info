@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "thaumcraftwandmodel",
+    "name": "ThaumcraftWandModel",
+    "description": "simple thaumcraft wand model created as example quad model",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "hohserg"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
